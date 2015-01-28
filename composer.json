@@ -1,0 +1,35 @@
+{
+    "name": "julatools/yii2-entitymanager",
+    "description": "Entity manager for Yii2 and jula tools",
+    "keywords": ["yii2", "yii2-entitymanager", "entity manager for jula tools", "julatools"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/julatools/yii2-entitymanager/issues?state=open",
+        "forum": "https://gitter.im/julatools/yii2-entitymanager",
+        "source": "https://github.com/julatools/yii2-entitymanager"
+    },
+    "authors": [
+        {
+            "name": "Christian Dumhart",
+            "email": "christian.dumhart@chd.at",
+            "homepage": "http://www.chd.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "julatools\\entitymanager\\": ""
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
+
