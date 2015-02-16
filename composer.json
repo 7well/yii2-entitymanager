@@ -1,13 +1,13 @@
 {
-    "name": "7well/yii2-entitymanager",
-    "description": "Entity manager for Yii2 and 7well",
-    "keywords": ["yii2", "yii2-entitymanager", "entity manager for 7well", "7well"],
+    "name": "chd7well/yii2-entitymanager",
+    "description": "Entity manager for Yii2 and chd7well",
+    "keywords": ["yii2", "yii2-entitymanager", "entity manager for chd7well", "chd7well"],
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/7well/yii2-entitymanager/issues?state=open",
-        "forum": "https://gitter.im/7well/yii2-entitymanager",
-        "source": "https://github.com/7well/yii2-entitymanager"
+        "issues": "https://github.com/chd7well/yii2-entitymanager/issues?state=open",
+        "forum": "https://gitter.im/chd7well/yii2-entitymanager",
+        "source": "https://github.com/chd7well/yii2-entitymanager"
     },
     "authors": [
         {
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "7well\\entitymanager\\": ""
+            "chd7well\\entitymanager\\": ""
         }
     },
     "extra": {

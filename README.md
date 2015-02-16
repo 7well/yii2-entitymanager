@@ -1,6 +1,6 @@
-# Yii2-entitymanager [![Latest Stable Version](https://poser.pugx.org/7well/yii2-entitymanager/v/stable.svg)](https://packagist.org/packages/7well/yii2-entitymanager) [![Total Downloads](https://poser.pugx.org/7well/yii2-entitymanager/downloads.svg)](https://packagist.org/packages/7well/yii2-entitymanager) [![License](https://poser.pugx.org/7well/yii2-entitymanager/license.svg)](https://packagist.org/packages/7well/yii2-entitymanager)
+# Yii2-entitymanager [![Latest Stable Version](https://poser.pugx.org/chd7well/yii2-entitymanager/v/stable.svg)](https://packagist.org/packages/chd7well/yii2-entitymanager) [![Total Downloads](https://poser.pugx.org/chd7well/yii2-entitymanager/downloads.svg)](https://packagist.org/packages/chd7well/yii2-entitymanager) [![License](https://poser.pugx.org/chd7well/yii2-entitymanager/license.svg)](https://packagist.org/packages/chd7well/yii2-entitymanager)
 
-A simple entity manager for yii2 application and the 7well project. 
+A simple entity manager for yii2 application and the chd7well project. 
 The entity manager  administrate the supported entity types of the system and for each entity a editor and formatter for forms and viewing. 
 
 
